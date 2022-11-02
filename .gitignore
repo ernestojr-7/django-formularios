@@ -1,0 +1,5 @@
+.env
+venv*
+.keys
+secrets*
+.secrets*
